@@ -1,3 +1,9 @@
+This is a basic UI to use Stable Diffusion video with the mask options, upload and image draw the mask and get an animation.
+
+It uses Fal.ai
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
