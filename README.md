@@ -2,6 +2,8 @@ This is a basic UI to use Stable Diffusion video with the mask options, upload a
 
 It uses Fal.ai
 
+![magic-ui-screenshot](https://github.com/deifos/magic-animate-main/assets/3372909/f3ad848e-da33-4135-8011-716a0aff2747)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
