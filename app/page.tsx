@@ -1,5 +1,5 @@
-"use client"
-import ImageEditor from '@/components/image-editor'
+'use client';
+import ImageEditor from '@/components/image-editor';
 
 export default function Home() {
   return (
@@ -11,7 +11,8 @@ export default function Home() {
           </h1>
 
           <p className="mt-4 text-lg text-slate-700 dark:text-slate-400 sm:text-xl">
-            Upload your photo, paint over the area you would like to animate and click go, is that easy.
+            Upload your photo, paint over the area you would like to animate and
+            click go, is that easy.
           </p>
         </div>
         <div className="max-w-lg">
@@ -19,5 +20,5 @@ export default function Home() {
         </div>
       </section>
     </main>
-  )
+  );
 }
